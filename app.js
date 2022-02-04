@@ -36,4 +36,4 @@ async function fetchPlayers() {
       .catch((error) => console.log(error));
   }
 
-  fetchProducts();
+  fetchPlayers();
